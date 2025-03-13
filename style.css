@@ -292,6 +292,7 @@ nav .img{
     position: relative;
     overflow: hidden;
     z-index: 1;
+    filter: drop-shadow(10px 10px 32px rgba(0, 0, 0, 0.25));
 }
 .rating_product{
     width: 4.375rem;
